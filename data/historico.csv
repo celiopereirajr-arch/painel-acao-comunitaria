@@ -1,0 +1,13 @@
+id;dia;de;para
+001;3;aberta;em_analise
+002;5;aberta;em_analise
+001;6;em_analise;concluida
+004;7;aberta;em_analise
+005;9;aberta;em_analise
+004;11;em_analise;concluida
+007;12;aberta;em_analise
+010;16;aberta;em_analise
+010;18;em_analise;concluida
+012;20;aberta;em_analise
+012;23;em_analise;concluida
+014;24;aberta;em_analise

@@ -1,0 +1,17 @@
+id;categoria;descricao;bairro;local;abertura;status
+001;iluminacao;Poste apagado na esquina;Arroios;Praça Central;2;concluida
+002;acessibilidade;Rampa de acesso quebrada;Arroios;Escola Municipal;3;em_analise
+003;limpeza;Lixo acumulado na calçada;Penha de França;Rua das Flores;4;aberta
+004;conservacao;Banco da praça danificado;Areeiro;Praça do Lago;5;concluida
+005;iluminacao;Lâmpada piscando no ponto de ônibus;Penha de França;Avenida Principal;7;em_analise
+006;acessibilidade;Piso tátil descontínuo;Arroios;Posto de Saúde;8;aberta
+007;limpeza;Entulho em terreno baldio;Areeiro;Rua dos Ipês;10;em_analise
+008;conservacao;Buraco na calçada;Penha de França;Rua das Flores;11;aberta
+009;iluminacao;Poste sem luz na quadra esportiva;Areeiro;Quadra Poliesportiva;13;aberta
+010;acessibilidade;Falta de rampa na travessia;Penha de França;Avenida Principal;15;concluida
+011;limpeza;Bueiro entupido com folhas;Arroios;Rua das Acácias;17;aberta
+012;conservacao;Pintura apagada na faixa de pedestres;Areeiro;Praça do Lago;19;concluida
+013;;Poste torto na calçada;Arroios;Praça Central;21;aberta
+014;iluminacao;Luz queimada na passarela;Arroios;Passarela da Estação;22;em_analise
+015;limpeza;Caçamba cheia perto da escola;Penha de França;Escola Municipal;24;aberta
+016;limpeza;Mato alto na calçada;Penha de França;Rua dos Ipês;26;pendente
