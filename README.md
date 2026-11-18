@@ -2,9 +2,10 @@
 
 Painel de acompanhamento de ocorrências comunitárias. Projeto da Global Solution 2026 (desafio CitizenTech), FIAP, Ciência da Computação (Online).
 
-## Autor
+## Autores
 
 - Célio Carlos Pereira Junior, RM 574595
+- Stela Silva Santos, RM 574593
 
 ## Vídeo de apresentação
 
