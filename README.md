@@ -9,7 +9,7 @@ Painel de acompanhamento de ocorrências comunitárias. Projeto da Global Soluti
 
 ## Vídeo de apresentação
 
-Link do vídeo no YouTube (não listado): https://youtu.be/ZupyJiaUFf8
+Link do vídeo no YouTube (não listado): https://youtu.be/CSVbGdfaRwM
 
 ## Os bairros simulados, o problema e o público
 
